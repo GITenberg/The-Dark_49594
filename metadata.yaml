@@ -1,0 +1,29 @@
+_repo: The-Dark_49594
+contributor:
+  translator:
+    agent_name: Magnus, L. A.
+    gutenberg_agent_id: '45434'
+    url: http://www.gutenberg.org/2009/agents/45434
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Andreev, Leonid Nikolaevich
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: ''
+gutenberg_issued: '2015-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Dark
+url: http://www.gutenberg.org/ebooks/49594
