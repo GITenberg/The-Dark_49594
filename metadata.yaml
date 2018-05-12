@@ -1,9 +1,13 @@
 _repo: The-Dark_49594
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Magnus, L. A.
     gutenberg_agent_id: '45434'
     url: http://www.gutenberg.org/2009/agents/45434
+covers:
+- cover_type: archival
+  image_path: 49594-h/images/cover.jpg
 creator:
   author:
     agent_name: Andreyev, Leonid
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1871
     wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49594#The-Dark
 gutenberg_issued: '2015-08-04'
 gutenberg_type: Text
 identifiers:
